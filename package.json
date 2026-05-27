@@ -1,0 +1,10 @@
+{
+  "name": "learning-horizons-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix learning-horizons-next",
+    "build": "npm run build --prefix learning-horizons-next",
+    "start": "npm run start --prefix learning-horizons-next"
+  }
+}
